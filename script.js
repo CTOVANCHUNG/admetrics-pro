@@ -1,7 +1,7 @@
 // Khởi tạo SDK Facebook
 window.fbAsyncInit = function() {
     FB.init({
-        appId      : 'APP_ID_CUA_BAN_SE_DIEN_SAU', // Bạn sẽ thay số App ID vào đây ở Giai đoạn 2
+        appId      : '1048996152762274', // Bạn sẽ thay số App ID vào đây ở Giai đoạn 2
         cookie     : true,
         xfbml      : true,
         version    : 'v19.0'
